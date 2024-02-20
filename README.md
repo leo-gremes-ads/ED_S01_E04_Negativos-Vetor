@@ -5,7 +5,7 @@
 
 <h2 align="center">Análise e Desenvolvimento de Sistemas</h2>
 <h3 align="center">Estrutura de Dados</h3>
-<h4>Semana 01 - Exercício 01</h4>
+<h4>Semana 01 - Exercício 04</h4>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus quis tellus nec purus aliquam pellentesque sit amet sed justo. Duis eu libero id tortor tempor pharetra eget non est. Maecenas euismod vulputate mauris ut malesuada. Proin nec scelerisque augue, eu semper purus.
 
 <h4>Solução</h4>
